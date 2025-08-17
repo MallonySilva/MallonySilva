@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Mallony Silva  
 
-<!--
-**MallonySilva/MallonySilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Estudante de Análise e Desenvolvimento de Sistemas** em transição para a área de **Tecnologia**, com experiência no setor comercial e relacionamento com clientes.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades  
+- ✅ Organização e gestão de tarefas  
+- ✅ Comunicação eficaz  
+- ✅ Aprendizado contínuo  
+
+---
+
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MallonySilva&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MallonySilva&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adsmallony/)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mallony.eua@gmail.com)  
+
+---
+✨ Sempre aberto a aprender, colaborar e crescer na área de tecnologia!
